@@ -39,14 +39,17 @@
 
 ---
 
-## 📞 Book a Free SEO Audit
+## 📡 Connect With Me
 
-> We'll audit your store's SEO health and show you exactly what's blocking your rankings.
-
-- 🌐 Website: [desidevloper.com](https://desidevloper.com)
-- 📱 WhatsApp: [+91 97274 13309](https://wa.me/919727413309)
-- 📧 Email: [3goldenlotusroots@gmail.com](mailto:3goldenlotusroots@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/sntl2784](https://www.linkedin.com/in/sntl2784)
+| Platform | Link |
+|----------|------|
+| 🌐 Website | [desidevloper.com](https://desidevloper.com) |
+| 📱 WhatsApp | [+91 97274 13309](https://wa.me/919727413309) |
+| 📧 Email | [3goldenlotusroots@gmail.com](mailto:3goldenlotusroots@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/sntl2784](https://www.linkedin.com/in/sntl2784) |
+| 💻 GitHub | [github.com/SNTL84](https://github.com/SNTL84) |
+| 📸 Instagram | [@desibiztrade](https://www.instagram.com/desibiztrade/) |
+| 🤖 Aratt.ai | [aratt.ai/user/@desidevloper](https://aratt.ai/user/@desidevloper) |
 
 ---
 
@@ -75,6 +78,7 @@ Service Architect & Developer : SNTL 84 Milan
 Organisation                  : Golden Lotus DesiDevloper
 GitHub                        : https://github.com/SNTL84
 Web                           : https://desidevloper.com
+Instagram                     : https://www.instagram.com/desibiztrade/
 Location                      : Surat, Gujarat, India
 Contact                       : https://wa.me/919727413309
 ```
